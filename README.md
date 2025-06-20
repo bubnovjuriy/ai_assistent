@@ -2,7 +2,7 @@
 # ИИ-Семейный Ассистент 🏡✨
 
 Скриншот моего приложение:
-Скриншот1 :https://github.com/bubnovjuriy/ai_assistent/blob/main/Снимок%20экрана%202025-06-20%20в%2019.51.33.png?raw=true
+Скриншот1 [:https://github.com/bubnovjuriy/ai_assistent/blob/main/Снимок%20экрана%202025-06-20%20в%2019.51.33.png?raw=true](https://github.com/bubnovjuriy/ai_assistent/blob/50ff81c37cbe02525c3ae44ea4c435976170476c/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-20%20%D0%B2%2019.51.33.png)
 
 
 ## Описание проекта  
